@@ -9,5 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:nupur.garg@winpeforum.com
 TEL;type=MOBILE;type=VOICE:(+91)9958173366
 item1.ADR;type=WORK;type=pref:;;WINPE Development Forum, 66, Siddhartha Enclave, New Delhi – 110014;;;;
 item1.X-ABADR:sg
+item2.URL;type=http://winpeforum.com/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
